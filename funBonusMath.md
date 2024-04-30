@@ -13,3 +13,7 @@ $\text{Period}=\frac{1}{\text{Frequency}}=\frac{1}{\frac{300
 cm}^2}{\text{mouth}}}=195\text{ years}$
 
  somone found the amount of time needed for (if your mouth is open and you are still, how long till a bird poops in it?)
+
+---
+# reverse kinimatics
+thiers reverse kinimatics btw, in robotics
