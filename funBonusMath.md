@@ -18,3 +18,8 @@ cm}^2}{\text{mouth}}}=195\text{ years}$
 ---
 # reverse kinimatics
 thiers reverse kinimatics btw, in comp sci it is used because you know where your final and initial position are, the problem is getting their. like the legs of that stupid viral robot dog, or natural looking animation.
+---
+
+# interesting gravity formula
+
+you ever realize how $F_g =  \frac{G m_1 m_2}{r^2}$ kinda looks like the inverse square law? 
