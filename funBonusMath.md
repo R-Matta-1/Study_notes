@@ -17,7 +17,9 @@ cm}^2}{\text{mouth}}}=195\text{ years}$
 
 ---
 # reverse kinimatics
-thiers reverse kinimatics btw, in comp sci it is used because you know where your final and initial position are, the problem is getting their. like the legs of that stupid viral robot dog, or natural looking animation.
+
+thiers 'reverse' kinimatics btw
+
 ---
 
 # interesting gravity formula
