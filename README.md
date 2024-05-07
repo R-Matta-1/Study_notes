@@ -3,7 +3,7 @@
 - I use Katex to render math (standard)
 - i have problems to solve
 - I teach problem solving
-- 
+
 
 meanwile milo
 
