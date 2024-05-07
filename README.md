@@ -1,4 +1,4 @@
-# the defactro better version of the M. Shien notes
+# the defacto better version of the M. Shien notes
 
 - I use Katex to render math (standard)
 - i have problems to solve
