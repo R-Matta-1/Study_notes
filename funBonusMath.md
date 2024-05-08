@@ -1,6 +1,6 @@
 # why $\pi$?
 
-[try to s this puzzle](https://www.youtube.com/watch?v=HEfHFsfGXjs)
+[try to solve this puzzle](https://www.youtube.com/watch?v=HEfHFsfGXjs)
 
 
 
