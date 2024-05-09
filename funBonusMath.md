@@ -27,3 +27,5 @@ thiers 'reverse' kinimatics btw
 you ever realize how $F_g =  \frac{G m_1 m_2}{r^2}$ kinda looks like the inverse square law? 
 
 # $\uparrow \uparrow \downarrow \downarrow \leftarrow \rightarrow \leftarrow \rightarrow BA$
+
+$\frac \S{\frac {\Sigma1\Sigma} {\frac 1 {\frac 1 {\frac 1 {\frac 1 {\frac 1 {\frac 1 {\frac 1 {\frac 1 {\frac 1 {\frac 1 {\frac 1 {\frac 1 \zeta}}}}}}}}}}}}}$
