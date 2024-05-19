@@ -1,4 +1,4 @@
-# the better version of the M. Shien notes
+# free notes, for future reference
 
 - I use Katex to render math (standard)
 - i have problems to solve
@@ -8,14 +8,5 @@
 - on one of the most trusted websites\ipynb system in the world for programmers
 - dosen't just give equasions, I find answers.
 
-meanwile milo
 
-- no problem solving 
-- only listing functions
-- he said "i hope you die"
-
-
----
-
-
-using this to study phys, will share before the test, using KaTex to render the math
+please, feel free to add
